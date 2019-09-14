@@ -9,16 +9,8 @@
     "build": "webpack --config webpack.config.js --mode development"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/preset-env": "^7.6.0",
-    "@types/jquery": "^3.3.31",
-    "babel-loader": "^8.0.6",
-    "prettier": "^1.18.2",
-    "typescript": "^3.6.3",
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.8"
   },
-  "dependencies": {
-    "code-prettify": "^0.1.0"
-  }
+  "dependencies": {}
 }
